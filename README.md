@@ -10,6 +10,7 @@
 I'm a passionate software developer specializing in **full-stack development**, building robust and scalable applications using **Golang, Vue.js, Flutter, and MySQL**.
 
 📫 **Contact Me:**  
-- 🔗 GitHub: [Logeshkumar](https://github.com/Logeshkumar1803)  
+- 📧 Email: [Logeshkumar](logeshkumar.p@fcsonline.co.in)  
+- 🔗 GitHub: [About me](https://github.com/Logeshkumar1803)  
 
 
