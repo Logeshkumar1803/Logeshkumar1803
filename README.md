@@ -2,7 +2,7 @@
 **Software Developer | Fortune Capital Service Private Limited (Flattrade)**  
 
 🚀 **Tech Stack:**  
-- 🏗️ **Backend:** Golang  
+- 🏗️ **Backend:** Golang , Java
 - 🌐 **Frontend:** Vue.js, Flutter  
 - 🛢️ **Database:** MySQL  
 
